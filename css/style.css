@@ -8,6 +8,13 @@
     line-height: 60px;
     color: #181E4B;
 }
+.head-font-2{
+    font-family: 'Volkhov', serif;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 60px;
+    color: #181E4B;
+}
 .body-font{
     font-family: 'Poppins', sans-serif;
 }
@@ -34,4 +41,12 @@ height: 100vh;
     color: #DF6951;
     font-size: 20px;
     line-height: 30px;
+}
+.card-section{
+    height: 200px;
+}
+.card-title{
+    font-size: 20px;
+    color: #1E1D4C;
+    text-align: center;
 }
